@@ -1,0 +1,13 @@
+.cont{
+    gap: 0px 300px !important;
+}
+body{
+    background-color: rgb(187, 222, 210);
+}
+.portaimagen{
+    background: url("./fotonoticia_20150513114212_1200.jpg") center right;
+    background-size: cover;
+    height: 650px;
+    display:flex;
+    justify-content: center;
+}
